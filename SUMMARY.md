@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [關於本書](README.md)
+* [Page 1](page-1.md)
